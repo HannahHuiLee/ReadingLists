@@ -1073,8 +1073,4 @@
 
 
 
-Discuss what the given sources say about Words & Grammar.
-Place the discussion in the larger context of Vocabulary Units
-Present the notes in Markdown format.
-Use tables wherever possible to organize English words (grouped by meaning, category, or usage)
-help the learners to remember as many as the words 
+
