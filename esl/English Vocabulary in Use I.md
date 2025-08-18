@@ -989,6 +989,89 @@
 通过这些“Words & Grammar”单元，学习者不仅可以掌握新词汇，还能深入理解这些词汇在句子中的正确使用方式，从而提高英语的准确性和流利度。本书建议学习者在阅读英语材料时，注意记录遇到的带有介词的短语和表达，以便更好地学习和记忆。
 
 
+“Irregular Verbs”（不规则动词）是《English Vocabulary in Use - Elementary》一书**附录部分**的重要组成部分之一，位于书的**末尾**，与“Answer key”（答案键）、“Phonemic symbols”（音标符号）和“Index”（索引）并列。
+
+该附录专门用于帮助学习者掌握英语中**最常用的一些不规则动词**。与大多数规则动词不同，不规则动词的过去式和过去分词形式变化不遵循一般规则。本书的这一部分将不规则动词清晰地组织起来，以方便学习和记忆。
+
+书中将不规则动词分为三类，并提供了它们的**不定式 (infinitive)**、**过去式 (past simple)** 和 **过去分词 (past participle)** 形式：
+
+*   **所有形式相同的动词 (All forms the same)**
+    *   这类动词的不定式、过去式和过去分词形式**完全一致**。
+    *   **示例**:
+        *   **cost** (花费): cost, cost
+        *   **cut** (剪，切): cut, cut
+        *   **hurt** (伤害): hurt, hurt
+        *   **let** (让): let, let
+        *   **put** (放): put, put
+        *   **shut** (关): shut, shut
+
+*   **两种不同形式的动词 (Two different forms)**
+    *   这类动词的过去式和过去分词形式相同，但与不定式不同。
+    *   **示例**:
+        *   **beat** (打): beat, beaten
+        *   **become** (变成): became, become
+        *   **bring** (带来): brought, brought
+        *   **buy** (购买): bought, bought
+        *   **catch** (抓住): caught, caught
+        *   **come** (来): came, come
+        *   **feel** (感觉): felt, felt
+        *   **find** (找到): found, found
+        *   **get** (得到): got, got
+        *   **have** (有): had, had
+        *   **hear** (听见): heard, heard
+        *   **keep** (保持): kept, kept
+        *   **leave** (离开): left, left
+        *   **learn** (学习): learnt, learnt
+        *   **lose** (丢失): lost, lost
+        *   **make** (制作): made, made
+        *   **meet** (遇见): met, met
+        *   **pay** (支付): paid, paid
+        *   **read** (读): read (/red/), read (/red/)
+        *   **run** (跑): ran, run
+        *   **say** (说): said, said
+        *   **sell** (卖): sold, sold
+        *   **shine** (发光): shone, shone
+        *   **shoot** (射击): shot, shot
+        *   **sit** (坐): sat, sat
+        *   **sleep** (睡觉): slept, slept
+        *   **spend** (花费): spent, spent
+        *   **stand** (站立): stood, stood
+        *   **teach** (教): taught, taught
+        *   **tell** (告诉): told, told
+        *   **think** (思考): thought, thought
+        *   **understand** (理解): understood, understood
+        *   **win** (赢): won, won
+
+*   **三种不同形式的动词 (Three different forms)**
+    *   这类动词的不定式、过去式和过去分词形式**各不相同**。
+    *   **示例**:
+        *   **be** (是): was/were, been
+        *   **begin** (开始): began, begun
+        *   **break** (打破): broke, broken
+        *   **choose** (选择): chose, chosen
+        *   **do** (做): did, done
+        *   **drink** (喝): drank, drunk
+        *   **drive** (驾驶): drove, driven
+        *   **eat** (吃): ate, eaten
+        *   **fall** (跌倒): fell, fallen
+        *   **fly** (飞): flew, flown
+        *   **forget** (忘记): forgot, forgotten
+        *   **give** (给): gave, given
+        *   **go** (去): went, gone
+        *   **know** (知道): knew, known
+        *   **ride** (骑): rode, ridden
+        *   **rise** (上升): rose, risen
+        *   **sing** (唱歌): sang, sung
+        *   **speak** (说): spoke, spoken
+        *   **steal** (偷): stole, stolen
+        *   **swim** (游泳): swam, swum
+        *   **take** (拿): took, taken
+        *   **throw** (扔): threw, thrown
+        *   **wake** (醒来): woke, woken
+        *   **wear** (穿): wore, worn
+        *   **write** (写): wrote, written
+
+
 
 Discuss what the given sources say about Words & Grammar.
 Place the discussion in the larger context of Vocabulary Units
